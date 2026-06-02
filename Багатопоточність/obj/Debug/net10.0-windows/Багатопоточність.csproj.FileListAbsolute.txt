@@ -1,0 +1,16 @@
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\bin\Debug\net10.0-windows\Багатопоточність.exe
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\bin\Debug\net10.0-windows\Багатопоточність.deps.json
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\bin\Debug\net10.0-windows\Багатопоточність.runtimeconfig.json
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\bin\Debug\net10.0-windows\Багатопоточність.dll
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\bin\Debug\net10.0-windows\Багатопоточність.pdb
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\obj\Debug\net10.0-windows\Багатопоточність.Form1.resources
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\obj\Debug\net10.0-windows\Багатопоточність.csproj.GenerateResource.cache
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\obj\Debug\net10.0-windows\Багатопоточність.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\obj\Debug\net10.0-windows\Багатопоточність.AssemblyInfoInputs.cache
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\obj\Debug\net10.0-windows\Багатопоточність.AssemblyInfo.cs
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\obj\Debug\net10.0-windows\Багатопоточність.csproj.CoreCompileInputs.cache
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\obj\Debug\net10.0-windows\Багатопоточність.dll
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\obj\Debug\net10.0-windows\refint\Багатопоточність.dll
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\obj\Debug\net10.0-windows\Багатопоточність.pdb
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\obj\Debug\net10.0-windows\Багатопоточність.genruntimeconfig.cache
+C:\Users\mrynd\source\repos\Багатопоточність\Багатопоточність\obj\Debug\net10.0-windows\ref\Багатопоточність.dll
